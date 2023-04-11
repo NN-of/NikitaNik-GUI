@@ -1,7 +1,6 @@
 <p align="center">
     <p align="center">
-        <img align="center" src="https://github.com/NN-of/site_data/blob/main/Img/gray-cube.png" height="120" />
-        <img align="center" src="https://github.com/NN-of/site_data/blob/main/Img/color-cube.png" height="120" />
+        <img align="center" src="https://nn-of.ru/images/stash/nnGUI/pack.png" height="120" />
     </p>
     <h1 align="center">NikitaNik_of GUI</h1>
     <h2 align="center">Модпаки, собранные специально для DCSMP</h2>
